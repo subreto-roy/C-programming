@@ -1,0 +1,5 @@
+place=bangladesh
+place=india
+place=usa
+bird=parrot
+bird=peacock
